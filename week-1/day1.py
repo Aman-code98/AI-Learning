@@ -1,0 +1,11 @@
+name = input('what is your name?')
+age = int(input('what is your age ?'))
+city = input('what is the city you are from: ')
+years_to_goal =1 
+print('------------------------------------')
+print (f'my name is {name}')
+print (f'my age is {age}')
+print (f'my city is {city}')
+print('------------------------------------')
+print(f'by {age + years_to_goal} I will be having 500k USD that I made using AI which is also my recurring income')
+print('journey has already started today')
